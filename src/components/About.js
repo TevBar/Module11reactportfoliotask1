@@ -7,7 +7,6 @@ const About = () => {
       <h2>About Me</h2>
       <p>
         
-Here’s a brief description combining your coding journey with the themes of One Piece:
 
 My journey into coding has been nothing short of an epic adventure. Like a rookie pirate crew navigating treacherous waters, I’ve faced my share of failures, from stumbling through bootcamps to battling self-doubt. Yet, much like Luffy’s unshakable resolve to become the King of the Pirates, I refuse to give up on my dream of becoming an amazing software developer.
 
