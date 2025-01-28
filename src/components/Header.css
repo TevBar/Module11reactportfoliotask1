@@ -1,0 +1,25 @@
+.header {
+    position: relative;
+    height: 400px; /* Adjust height as needed */
+    background-image: url('https://pbs.twimg.com/media/GHI7vNSXwAAnw2s?format=jpg&name=4096x4096');
+    background-size: cover; /* Ensure the image covers the entire header */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* White text for contrast */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Add shadow for better visibility */
+  }
+  
+  .header-overlay {
+    background-color: rgba(0, 0, 0, 0.4); /* Dark overlay for better text contrast */
+    padding: 20px 40px;
+    border-radius: 8px;
+  }
+  
+  .header h1 {
+    font-size: 2.5rem; /* Adjust font size for better appearance */
+    margin: 0;
+  }
+  
